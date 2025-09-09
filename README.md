@@ -1,7 +1,7 @@
 # E-Commerce Database Project
 
 A **relational database system** built in **PostgreSQL** to simulate a realistic e-commerce platform.  
-The project models **Users, Products, Orders, Payments, and Addresses** (fully normalized in 3NF), includes sample data, advanced queries, and an ER diagram—perfect for showcasing database design and SQL skills.
+The project models **Users, Products, Orders, Payments, and Addresses** (fully normalized in 3NF), includes sample data, advanced queries, and an ER diagram.
 
 ---
 
