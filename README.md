@@ -41,8 +41,8 @@ The project models **Users, Products, Orders, Payments, and Addresses** (fully n
 1. Create a PostgreSQL database using **pgAdmin** or **psql**.  
 2. Execute `schema/create_tables.sql` to create all tables.  
 3. Load `schema/sample_data.sql` to populate sample data.  
-4. Explore queries in `queries/query_bank.sql` to analyze data.  
-5. Refer to `diagrams/er_diagram.png` for schema visualization.
+4. Explore queries in `queries/query_bank.md` to analyze data.  
+5. Refer to `diagrams/er_diagram.md` for schema visualization.
 
 ---
 
