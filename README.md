@@ -24,11 +24,11 @@ The project models **Users, Products, Orders, Payments, and Addresses** (fully n
 ## Repository Structure
 
     ecommerce-database-project/
-    │
     ├── README.md
     ├── schema/
     │ ├── create_tables.sql # PostgreSQL CREATE TABLE scripts
     │ └── sample_data.sql # Sample data inserts
+    │ └── relationship_summary.md
     ├── queries/
     │ └── query_bank.sql # SQL queries (basic → advanced analytics)
     ├── diagrams/
