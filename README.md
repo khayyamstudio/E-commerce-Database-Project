@@ -30,9 +30,9 @@ The project models **Users, Products, Orders, Payments, and Addresses** (fully n
     │ └── sample_data.sql # Sample data inserts
     │ └── relationship_summary.md
     ├── queries/
-    │ └── query_bank.sql # SQL queries (basic → advanced analytics)
+    │ └── query_bank.md # SQL queries (basic → advanced analytics)
     ├── diagrams/
-     └── er_diagram.png # ER diagram
+     └── er_diagram.md # ER diagram
 
 ---
 
