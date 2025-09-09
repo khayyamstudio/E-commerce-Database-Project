@@ -1,5 +1,5 @@
 # E-commerce Query Bank
-A collection of example SQL queries for an e-commerce project, organized by complexity. These queries cover user, product, order, and analytics operations.
+A collection of SQL queries for an e-commerce project, organized by complexity. These queries cover user, product, order, and analytics operations.
 # Basic Queries
 
 **List all users**
