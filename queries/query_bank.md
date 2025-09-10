@@ -106,7 +106,7 @@ ORDER BY total_orders DESC;`
 
 ---
 
-# E-commerce Query Bank Summary:
+# E-commerce Query Bank Summary
 A collection of SQL queries for an e-commerce project, organized by complexity:
 
 **Basic Queries:** Retrieve all users, products with stock, completed orders, and user addresses.
